@@ -705,11 +705,12 @@ color: #434455;
     line-height: 1.17;
     letter-spacing: 0.04em;
     padding: 8px 16px;
-    color: rgba(46, 47, 66, 0.4);
+    
     border: 1px solid rgba(46, 47, 66, 0.4);
-    outline: transparent;
     resize: none;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    outline: transparent;
+    color: #2e2f42;
 }
 
 .modal-textarea:focus {
@@ -720,7 +721,7 @@ color: #434455;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
-    color: #2e2f42;
+    
 }
 
 .form-bottom {
