@@ -554,10 +554,11 @@ color: #434455;
 
 .footer-form {
     display: flex;
+    gap: 24px;
 }
 
 .footer-field {
-    gap: 24px;
+    
 }
 
 .footer-input {
@@ -585,9 +586,10 @@ color: #434455;
     letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
+    background-color: #4D5AE5;
     border: none;
     border-radius: 4px;
-    
+
 }
 
 
